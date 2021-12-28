@@ -75,12 +75,13 @@ h2 {
     padding: 14px;
     border: 3.2px solid white;
     border-radius: 8px;
-    background: linear-gradient(to bottom, #080808, #101010);
+    background: linear-gradient(to top, #080808, #0e0a0a);
 }
-.algo {
+#appBg form .algo {
     margin-top: 12px;
     border-radius: 12px;
-    background: linear-gradient(to top, #080808, #101010);
+    background: linear-gradient(to top, #080808, #0e0a0a);
+    /* background: linear-gradient(to bottom #080808, #101010); */
 }
 #appBg input[type=textfield] {
     border-radius: 8px;
